@@ -100,12 +100,12 @@
     };
   
     const STORIES = [   // photo: optional photo URL, shown in place of the silhouette
-      { id: 1, name: 'Phoenix Coe', year: 2019, field: 'tech', role: 'Web developer', photo: '' },
-      { id: 2, name: 'Buddy Wade', year: 2016, field: 'health', role: 'Nurse', photo: '' },
-      { id: 3, name: 'Temiloluwa Adebosin', year: 2014, field: 'business', role: 'Accountant', photo: '' },
-      { id: 4, name: 'Christopher Tokarz', year: 2018, field: 'creative', role: 'Dancer', photo: '' },
-      { id: 5, name: 'Brooklyn Kedzior', year: 2012, field: 'apprenticeship', role: 'Electrician', photo: '' },
-      { id: 6, name: 'Johnathan Kwagala', year: 2024, field: 'university', role: 'Studying engineering', photo: '' },
+      { id: 1, name: 'Name Surname', year: 2026, field: 'tech', role: 'Web developer', photo: '' },
+      { id: 2, name: 'Name Surname', year: 2026, field: 'health', role: 'Nurse', photo: '' },
+      { id: 3, name: 'Name Surname', year: 2026, field: 'business', role: 'Accountant', photo: '' },
+      { id: 4, name: 'Name Surname', year: 2026, field: 'creative', role: 'Dancer', photo: '' },
+      { id: 5, name: 'Name Surname', year: 2026, field: 'apprenticeship', role: 'Electrician', photo: '' },
+      { id: 6, name: 'Name Surname', year: 2026, field: 'university', role: 'Studying engineering', photo: '' },
     ];
   
     const EVENT_TYPES = {
@@ -130,9 +130,9 @@
     };
   
     const NEWS = [
-      { id: 1, type: 'news', date: '2026-10-02', title: 'The alumni network launches' },
-      { id: 2, type: 'notice', date: '2026-09-15', title: 'Mentors wanted for Year 11' },
-      { id: 3, type: 'event', date: '2026-09-01', title: 'Summer showcase date announced' },
+      { id: 1, type: 'news', date: '2026-10-02', title: 'lorem ipsum dolor sit amet consectetur adipiscing elit consequatur qui at sed incididunt sed laborum' },
+      { id: 2, type: 'notice', date: '2026-09-15', title: 'lorem ipsum dolor sit amet consectetur adipiscing elit consequatur qui at sed incididunt sed laborum' },
+      { id: 3, type: 'event', date: '2026-09-01', title: 'lorem ipsum dolor sit amet consectetur adipiscing elit consequatur qui at sed incididunt sed laborum' },
     ];
   
     // Messages shown after each form is submitted.
